@@ -148,7 +148,7 @@ I enjoy building projects that allow me to work with real-world engineering conc
 
 ### 🏗️ System Design
 
-Learning to design scalable and reliable systems with a focus on architecture, trade-offs and real-world decisions.
+Learning to design scalable and reliable software systems with a focus on architecture, trade-offs and real-world decisions.
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +176,7 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
 
 <td align="center" width="33%" valign="top">
 <br/>
-<font size="5">🎖️</font>
+<font size="10">🎖️</font>
 <br/><br/>
 <font size="3" color="#FFFFFF"><b>Smart India Hackathon 2024</b></font>
 <br/><br/>
@@ -188,7 +188,7 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
 
 <td align="center" width="33%" valign="top">
 <br/>
-<font size="5">🎖️</font>
+<font size="10">🎖️</font>
 <br/><br/>
 <font size="3" color="#FFFFFF"><b>Smart India Hackathon 2025</b></font>
 <br/><br/>
@@ -200,7 +200,7 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
 
 <td align="center" width="33%" valign="top">
 <br/>
-<font size="5">🚀</font>
+<font size="10">🚀</font>
 <br/><br/>
 <font size="3" color="#FFFFFF"><b>IDE Bootcamp 2026</b></font>
 <br/><br/>
@@ -226,13 +226,13 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
 ## 📊 GitHub Analytics
 
 <p>
-  <img width="49%" src="https://streak-stats.demolab.com?user=anushkaadak2684&theme=transparent&hide_border=true&ring=B11226&fire=B11226&currStreakLabel=B11226&sideLabels=B11226" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushkaadak2684&theme=github_dark" alt="GitHub Stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=anushkaadak2684&theme=transparent&hide_border=true&ring=B11226&fire=B11226&currStreakLabel=B11226&sideLabels=B11226" alt="GitHub Streak"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushkaadak2684&theme=github_dark" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkaadak2684&theme=github_dark" alt="Top Languages"/>
-  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkaadak2684&theme=github_dark" alt="Profile Details"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkaadak2684&theme=github_dark" alt="Top Languages"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkaadak2684&theme=github_dark" alt="Profile Details"/>
 </p>
 
 </div>
@@ -282,5 +282,16 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <i>"Crafting scalable software, exploring systems & continuously learning."</i>
+  <br/><br/>
+  <b>Thanks for visiting! ✨</b>
+</p>
+
+<!-- Animated Closing Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:5C0612,100:B11226&height=120&section=footer"/>
 
 </div>
