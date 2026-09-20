@@ -148,7 +148,7 @@ I enjoy building projects that allow me to work with real-world engineering conc
 
 ### 🏗️ System Design
 
-Learning how to design scalable, reliable and maintainable software systems, including architecture, trade-offs and real-world design decisions.
+Learning to design scalable and reliable systems with a focus on architecture, trade-offs and real-world decisions.
 
 </td>
 <td width="50%" valign="top">
@@ -226,12 +226,12 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
 ## 📊 GitHub Analytics
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anushkaadak2684&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=B11226&icon_color=B11226&text_color=ffffff&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=anushkaadak2684&theme=transparent&hide_border=true&ring=B11226&fire=B11226&currStreakLabel=B11226&sideLabels=B11226" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushkaadak2684&theme=github_dark" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaadak2684&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=B11226&text_color=ffffff" alt="Top Languages"/>
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkaadak2684&theme=github_dark" alt="Top Languages"/>
   <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkaadak2684&theme=github_dark" alt="Profile Details"/>
 </p>
 
