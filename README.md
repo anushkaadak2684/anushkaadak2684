@@ -9,7 +9,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=90&lines=Building+real-world+software+and+understanding+how+systems+work;Exploring+real-time+systems%2C+scalable+architectures+and+software+engineering;Currently+learning+System+Design+%26+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=B11226&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Building+real-world+software+%26+understanding+systems;Exploring+real-time+systems+%26+scalable+architectures;Currently+learning+System+Design+%26+AI%2FML" alt="Typing SVG" />
 </a>
 
 <!-- Quick Social Links -->
@@ -18,16 +18,16 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anushka-adak-4b0a76287">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djcuNmgyLjh2LTcuNmgtMi44TTcuODYgNi44MWExLjYzIDEuNjMgMCAxIDAgMCAzLjI2IDEuNjMgMS42MyAwIDAgMCAwLTMuMjZaIi8+PC9zdmc+"/>
   </a>
   <a href="https://leetcode.com/u/anushka_adak/">
-    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://anushka-portfolio-smoky.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:anushkaadakofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -76,13 +76,64 @@ I enjoy building projects that allow me to work with real-world engineering conc
 
 ## 🛠️ Tech Stack & Tools
 
-| Category | Technologies & Icons |
-| :--- | :--- |
-| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,mysql,bash&theme=dark" /><br/>`Java` • `C` • `C++` • `Python` • `JavaScript` • `SQL` • `Shell` |
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" /><br/>`HTML` • `CSS` • `React` • `Tailwind CSS` • `Bootstrap` |
-| **⚙️ Backend & Real-Time** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/>`Node.js` • `Express.js` • `REST APIs` • `Socket.io` • `WebRTC` |
-| **🗄️ Database & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&theme=dark" /><br/>`MongoDB` • `MySQL` • `Firebase` • `Cloudinary` • `Vercel` • `Render` • `Railway` • `TiDB Cloud` |
-| **🔧 Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" /><br/>`Git` • `GitHub` • `VS Code` • `Docker` • `Maven` • `Postman` |
+<table width="100%">
+  <tr>
+    <td width="24%" valign="middle"><b>💻 Languages</b></td>
+    <td width="76%" valign="middle">
+      <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Shell-181717?style=for-the-badge&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="middle"><b>🎨 Frontend</b></td>
+    <td width="76%" valign="middle">
+      <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="middle"><b>⚙️ Backend & Real-Time</b></td>
+    <td width="76%" valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-181717?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-181717?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-181717?style=for-the-badge&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebRTC-181717?style=for-the-badge&logo=webrtc&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="middle"><b>🗄️ Database & Cloud</b></td>
+    <td width="76%" valign="middle">
+      <img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudinary-181717?style=for-the-badge&logo=cloudinary&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-181717?style=for-the-badge&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Railway-181717?style=for-the-badge&logo=railway&logoColor=white" />
+      <img src="https://img.shields.io/badge/TiDB_Cloud-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=" />
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="middle"><b>🔧 Tools & Platforms</b></td>
+    <td width="76%" valign="middle">
+      <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQtMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==" />
+      <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maven-181717?style=for-the-badge&logo=apachemaven&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -124,34 +175,46 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
 <table width="100%">
 <tr>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" width="33%" valign="top">
 <br/>
-
-### 🏆 Smart India Hackathon 2024
-
-# <font color="#B11226">FINALIST</font>
-
-<br/>
+<font size="5">🏆</font>
+<br/><br/>
+<font size="3" color="#FFFFFF"><b>SMART INDIA HACKATHON</b></font>
+<br/><br/>
+<font size="6" color="#FFFFFF"><b>2024</b></font>
+<br/><br/>
+<img src="https://img.shields.io/badge/FINALIST-B11226?style=for-the-badge&labelColor=181717" />
+<br/><br/>
+<font size="2" color="#A0AEC0">National Innovation Hackathon</font>
+<br/><br/>
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" width="33%" valign="top">
 <br/>
-
-### 🏆 Smart India Hackathon 2025
-
-# <font color="#B11226">FINALIST</font>
-
-<br/>
+<font size="5">🏆</font>
+<br/><br/>
+<font size="3" color="#FFFFFF"><b>SMART INDIA HACKATHON</b></font>
+<br/><br/>
+<font size="6" color="#FFFFFF"><b>2025</b></font>
+<br/><br/>
+<img src="https://img.shields.io/badge/FINALIST-B11226?style=for-the-badge&labelColor=181717" />
+<br/><br/>
+<font size="2" color="#A0AEC0">National Innovation Hackathon</font>
+<br/><br/>
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" width="33%" valign="top">
 <br/>
-
-### 🚀 IDE BOOTCAMP 2026
-
-# <font color="#B11226">FINALIST</font>
-
-<br/>
+<font size="5">🚀</font>
+<br/><br/>
+<font size="3" color="#FFFFFF"><b>IDE BOOTCAMP</b></font>
+<br/><br/>
+<font size="6" color="#FFFFFF"><b>2026</b></font>
+<br/><br/>
+<img src="https://img.shields.io/badge/FINALIST-B11226?style=for-the-badge&labelColor=181717" />
+<br/><br/>
+<font size="2" color="#A0AEC0">Innovation, Design & Entrepreneurship</font>
+<br/><br/>
 </td>
 
 </tr>
@@ -214,16 +277,16 @@ Building strong foundations in Artificial Intelligence and Machine Learning and 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anushka-adak-4b0a76287">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djcuNmgyLjh2LTcuNmgtMi44TTcuODYgNi44MWExLjYzIDEuNjMgMCAxIDAgMCAzLjI2IDEuNjMgMS42MyAwIDAgMCAwLTMuMjZaIi8+PC9zdmc+"/>
   </a>
   <a href="https://leetcode.com/u/anushka_adak/">
-    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://anushka-portfolio-smoky.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:anushkaadakofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=B11226"/>
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
